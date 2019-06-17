@@ -17,4 +17,4 @@ import area from '@/components/common/Area' // 地址组件
 Vue.component('area', area)
 
 =========
-然后，在需要用到area组件的地方，以<area></area>的形式即可进行引用
+然后，在需要用到area组件的地方，以/<area></area>/的形式即可进行引用
